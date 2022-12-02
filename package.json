@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanantoniou/advent-of-code.git"
+  },
+  "author": "Jordan Antoniou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordanantoniou/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/jordanantoniou/advent-of-code#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
